@@ -74,6 +74,9 @@ Boom. Got it. I don't think this is the intended way to solve the challenge, but
   <img src="https://imgur.com/UxYviGT.png" width="400">
 </div>
 
+This is also the first blood of this challenge 🔥
+![https://imgur.com/JqEcFJW.png](https://imgur.com/JqEcFJW.png)
+
 # Is this the intended way to solve the challenge?
 
 No, not at all. Besides, after I solved the challenge, the creator of the challenge, @serioton, reached out to me to discuss my approach. We had a fun conversation about the challenge and its intended solution.
